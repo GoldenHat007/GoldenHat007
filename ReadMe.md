@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nanda Kumar S -->username-> @GoldenHat007
-- 👀 I’m interested in Data Security and Ethical Hacking
-- 🌱 I’m currently learning basics (Python,HTML and C)
+- 👀 I’m interested in Data Security, Ethical Hacking and Cloud Computing
+- 🌱 I’m currently learning basics (Python,HTML and C) and Cloud Computing
 - 💞️ I’m looking to collaborate on any projects that includes Ethical Hacking and Data security
 - 📫 How to reach me - email-->nandakumarsammasandra@gmail.com
 
